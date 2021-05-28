@@ -1,0 +1,49 @@
+[23:07:02] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:07:02] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:07:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:07:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:07:02] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:07:02] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:07:02] [main/INFO]: Reloading ResourceManager: Default
+[23:07:02] [Worker-Main-12/INFO]: Loaded 7 recipes
+[23:07:02] [Worker-Main-12/INFO]: Loaded 927 advancements
+[23:07:04] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[23:07:04] [Server thread/INFO]: Loading properties
+[23:07:04] [Server thread/INFO]: Default game type: SURVIVAL
+[23:07:04] [Server thread/INFO]: Generating keypair
+[23:07:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:07:04] [Server thread/INFO]: Using default channel type
+[23:07:04] [Server thread/INFO]: Preparing level "world"
+[23:07:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:07:09] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[23:07:09] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[23:07:09] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[23:07:10] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[23:07:10] [Worker-Main-10/INFO]: Preparing spawn area: 6%
+[23:07:11] [Worker-Main-14/INFO]: Preparing spawn area: 16%
+[23:07:11] [Worker-Main-12/INFO]: Preparing spawn area: 22%
+[23:07:12] [Worker-Main-13/INFO]: Preparing spawn area: 28%
+[23:07:12] [Worker-Main-8/INFO]: Preparing spawn area: 37%
+[23:07:13] [Worker-Main-9/INFO]: Preparing spawn area: 44%
+[23:07:13] [Worker-Main-14/INFO]: Preparing spawn area: 48%
+[23:07:14] [Worker-Main-14/INFO]: Preparing spawn area: 57%
+[23:07:14] [Worker-Main-12/INFO]: Preparing spawn area: 65%
+[23:07:15] [Worker-Main-13/INFO]: Preparing spawn area: 72%
+[23:07:15] [Worker-Main-11/INFO]: Preparing spawn area: 81%
+[23:07:16] [Worker-Main-9/INFO]: Preparing spawn area: 87%
+[23:07:16] [Worker-Main-14/INFO]: Preparing spawn area: 96%
+[23:07:16] [Server thread/INFO]: Time elapsed: 8162 ms
+[23:07:16] [Server thread/INFO]: Done (11.910s)! For help, type "help"
+[23:15:12] [User Authenticator #1/INFO]: UUID of player Thaimas is 59264d10-9bad-4c29-bc86-ab5db535953c
+[23:15:12] [Server thread/INFO]: Thaimas[/188.192.193.216:61149] logged in with entity id 287 at (-174.5, 63.0, -168.5)
+[23:15:12] [Server thread/INFO]: Thaimas joined the game
+[23:15:16] [User Authenticator #2/INFO]: UUID of player Snom370 is d9d63ca6-c14a-44b4-b044-061363f5c15e
+[23:15:16] [Server thread/INFO]: Snom370[/188.193.26.64:62906] logged in with entity id 397 at (-184.5, 64.0, -157.5)
+[23:15:16] [Server thread/INFO]: Snom370 joined the game
+[23:16:00] [User Authenticator #3/INFO]: UUID of player Nueff is 5147f2c7-6543-4be7-ac8a-affe245243fe
+[23:16:00] [Server thread/INFO]: Nueff[/188.193.26.64:53460] logged in with entity id 595 at (-169.5, 63.0, -159.5)
+[23:16:00] [Server thread/INFO]: Nueff joined the game
+[23:18:48] [Server thread/INFO]: Thaimas has made the advancement [Stone Age]
+[23:19:39] [Server thread/INFO]: An entity is required to run this command here
+[23:20:39] [Server thread/INFO]: Nueff was shot by Skeleton
+[23:20:48] [Server thread/INFO]: Thaimas has made the advancement [Monster Hunter]
